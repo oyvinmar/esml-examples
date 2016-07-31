@@ -1,0 +1,7 @@
+node_modules/
+lib/
+es/
+*.log
+*.log.1
+.DS_STORE
+*~
